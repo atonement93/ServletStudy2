@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+* {
+	color: purple;
+}
+
+h3 {
+	color : red;
+}
+
+#t1 {
+	color: lime;
+	border: blue 1px dotted;	
+}
+.c1 {
+	color: blue;
+}
+
+h1 {
+	font-size: 64px;
+	/* border */
+	border-top-color: lime;
+	border-top-width: 3px;
+	border-top-style: solid;
+	
+	border-right-color: lime;
+	border-right-width: 3px;
+	border-right-style:dotted;
+	
+	border-bottom: lime 3px solid;
+}
+#t3, h2 {
+	font-size: 50px;
+}
+
+.c2{
+	font-size: 25px;
+}
+
+#circle {
+	border: 5px solid red;
+	width : 200px;
+	height : 200px;
+	border-radius: 10px 40px 10px 40px;
+}

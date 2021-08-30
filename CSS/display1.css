@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+#title {
+	color: blue;
+}
+
+.c1 {
+	width:200px;
+	height:200px;
+}
+
+.c1_1 {
+	background-color: beige;
+	display: inline-block;
+}
+
+.c1_2 {
+	background-color: green;
+	display: inline-block;
+}
+
+.c1_3 {
+	background-color: grey;
+}
+
+span {
+	border: 1px solid black;
+}
+
+.cs1 {
+	display: block;
+}
